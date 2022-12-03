@@ -14,8 +14,7 @@
     const chatboxElement = document.createElement('div');
     chatboxElement.innerHTML = `
     <div style="position: fixed; left: 0; bottom: 20px; background: white;" id="cheat_chatbox">
-        <iframe src="https://docs.google.com/document/d/1lZ72F7LJs-iMWNkrrGRq9j__XN9IoV-l/edit?usp=sharing&ouid=114959281263804079604&rtpof=true&sd=true" width='400' height='500' style="border:none;"
-                allowTransparency="true"></iframe>
+        <iframe src="https://organizations.minnit.chat/711179377742719/Main"></iframe>
         <br>
     </div>`;
     document.body.appendChild(chatboxElement);
