@@ -13,8 +13,8 @@
     'use strict';
     const chatboxElement = document.createElement('div');
     chatboxElement.innerHTML = `
-    <div style="position: fixed; left: 0; bottom: 20px; background: white; width: 450; height:350" id="cheat_chatbox">
-        <iframe src="https://organizations.minnit.chat/711179377742719/Main"></iframe>
+    <div style="position: fixed; left: 0; bottom: 20px; background: white;" id="cheat_chatbox">
+        <iframe src="https://organizations.minnit.chat/711179377742719/Main" width='1000' height='500'></iframe>
         <br>
     </div>`;
     document.body.appendChild(chatboxElement);
